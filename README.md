@@ -50,7 +50,7 @@ The code was tested on python v3.8.16 with the following libraries:
 |   |	├── extract_parades_dates.ipynb - A python botebook for extracting the raw pride events data 
 |   |	├── hand_filtered.xls - An xls after manual filtering of the extracted dates
 |   |	└── Other data files
-|	└── Other data files
+|   └── Other data files
 ├── Output - A folder that contains pickles of the LATEs calculated as well as graphs outputs
 ├── db_preprocessing.py - a python file containing DB pre-processing functions to be used in the main analysis notebook
 ├── paper_figures_and_tables.ipynb - A python notebook for generating the figures and tables presented in the final project paper
