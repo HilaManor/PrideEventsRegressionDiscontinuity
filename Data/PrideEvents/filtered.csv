@@ -1,0 +1,951 @@
+location,start_date,end_date,description,USA for sure,timestamp
+Brussels,2006-11-16,2006-11-19,LoveBall,False,20061026221710
+Miami,2006-11-22,2006-11-27,White Party Week,False,20061026221710
+Aspen,2007-01-14,2007-01-21,Gay and Lesbian Ski Week,False,20070114195410
+Miami,2007-01-28,2007-02-04,Freedom Caribbean Cruise,False,20070125091636
+Cologne,2007-02-15,2007-02-20,Karnaval,False,20070206002150
+Cape Town,2007-02-16,2007-02-25,Gay Pride,False,20070206002150
+Rio de Janeiro,2007-02-17,2007-02-20,Carnaval,False,20070206002150
+Miami,2007-02-27,2007-02-27,Winter Party Miami,False,20071217191524
+Miami,2007-02-28,2007-03-05,Winter Party,False,20070206002150
+Sydney,2007-03-03,2007-03-03,Mardi Gras,False,20070206002150
+Berlin,2007-04-05,2007-04-09,Leder- und Fetisch-Treffen,False,20070324050528
+Berlin,2007-04-07,2007-04-07,Snax Club,False,20070324050528
+Amsterdam,2007-04-30,2007-04-30,Queensday,False,20070324050528
+Orlando,2007-05-01,2007-06-03,Gay Days One Mighty Weekend,False,20070206002150
+Gran Canaria,2007-05-07,2007-05-13,Gay Pride,False,20070324050528
+Helsinki,2007-05-10,2007-05-10,Eurovision Songcontest,False,20070324050528
+Helsinki,2007-05-12,2007-05-12,Eurovision Songcontest,False,20070324050528
+Brussels,2007-05-12,2007-05-12,Gay Pride Parade,False,20070324050528
+Paris,2007-05-23,2007-05-28,Paris tournament,False,20070324050528
+Cologne,2007-05-25,2007-05-28,Rheinfetisch 2007,False,20070324050528
+Brussels,2007-05-28,2007-05-28,Gay Pride Parade,False,20070125091636
+Orlando,2007-05-29,2007-06-04,Gay Days Reunion Weekend,False,20070125091636
+Orlando,2007-05-29,2007-06-03,Gay Days One Mighty Weekend,False,20070307091905
+Orlando,2007-05-29,2007-05-29,Gay Days One Mighty Weekend,False,20070518172714
+Berlin,2007-06-16,2007-06-17,Stadtfest,False,20070324050528
+Berlin,2007-06-16,2007-06-24,Pride Week / CSD,False,20070324050528
+New York,2007-06-17,2007-06-24,NYC Gay Pride,False,20070518172714
+San Francisco,2007-06-23,2007-06-24,San Francisco Pride,False,20070518172714
+Dublin,2007-06-23,2007-06-25,Gay Pride,False,20070324050528
+Helsinki,2007-06-25,2007-07-01,Helsinki Pride,False,20070307091905
+Helsinki,2007-06-25,2007-06-25,Helsinki Pride,False,20070324050528
+Madrid,2007-06-29,2007-07-01,Orgullo Gay Euro Pride,False,20070307091905
+Paris,2007-06-29,2007-06-30,One Mighty Party Paris,False,20070125091636
+Paris,2007-06-29,2007-06-29,One Mighty Party Paris,False,20070324050528
+Madrid,2007-06-29,2007-06-29,Orgullo Gay Euro Pride,False,20070324050528
+London,2007-06-30,2007-06-30,Gay Pride,False,20070324050528
+Paris,2007-06-30,2007-06-30,Gay Pride,False,20070324050528
+Cologne,2007-07-06,2007-07-08,Christopher Street Day (CSD),False,20070324050528
+Antwerp,2007-07-12,2007-07-15,Eurogames 2007,False,20070324050528
+Antwerp,2007-07-14,2007-07-14,NaviGAYtion,False,20070206002150
+Berlin,2007-07-16,2007-07-24,Pride Week / CSD,False,20070109205651
+Stockholm,2007-07-30,2007-08-05,Gaypride,False,20070307091905
+Stockholm,2007-07-30,2007-07-30,Gaypride,False,20070324050528
+Barcelona,2007-08-01,2007-08-07,Summer's LoveBall,False,20070324050528
+Amsterdam,2007-08-02,2007-08-05,Gay Pride,False,20070324050528
+Brighton,2007-08-03,2007-08-05,Brighton Pride,False,20070324050528
+Amsterdam,2007-08-03,2007-08-05,Gay Pride,False,20070206002150
+Hamburg,2007-08-08,2007-08-13,The Leather Party,False,20070324050528
+Manchester,2007-08-24,2007-08-27,Gay Pride,False,20070324050528
+Berlin,2007-09-01,2007-09-01,Folsom Europe,False,20070324050528
+Munich,2007-09-20,2007-10-07,Oktoberfesten,False,20070307091905
+Munich,2007-09-20,2007-09-20,Oktoberfesten,False,20070324050528
+Munchen,2007-09-22,2007-10-07,Oktoberfesten,False,20070206002150
+San Francisco,2007-09-30,2007-09-30,Folsom Street Fair,False,20070925160559
+Montreal,2007-10-03,2007-10-07,Black & Blue Festival,False,20070324050528
+Berlin,2007-10-19,2007-10-19,Hustlaball,False,20070324050528
+Amsterdam,2007-10-25,2007-10-28,Leather Pride Weekend,False,20070324050528
+Miami,2007-11-21,2007-11-26,White Party Week,False,20071117111838
+Aspen,2008-01-13,2008-01-20,Gay and Lesbian Ski Week,False,20071217191524
+Miami,2008-01-19,2008-01-26,Atlantis Caribbean Cruise,False,20080117051103
+Miami,2008-01-25,2008-01-25,Atlantis Caribbean Cruise,True,20081220152307
+New Orleans,2008-02-01,2008-02-05,Gay Mardi Grass,False,20080117051103
+Rio de Janeiro,2008-02-02,2008-02-05,Carnival,False,20070324050528
+Rio de Janeiro,2008-02-03,2008-02-15,Atlantis Carnival Cruise,False,20070324050528
+Miami,2008-02-25,2008-02-25,Winter Party Miami,True,20081220152307
+Miami,2008-02-27,2008-02-27,Winter Party Miami,False,20080217232117
+Chicago,2008-05-22,2008-05-26,International Mr Leather,False,20080419012735
+Orlando,2008-06-05,2008-06-08,Gay Days One Mighty Weekend,False,20080526135008
+Orlando,2008-06-06,2008-06-08,Gay Days One Mighty Weekend,False,20071217191524
+Los Angeles,2008-06-06,2008-06-08,Los Angeles Pride,False,20080526135008
+New York,2008-06-22,2008-06-29,NYC Gay Pride,False,20080526135008
+San Francisco,2008-06-28,2008-06-29,San Francisco Pride,False,20080625230919
+Chicago,2008-06-29,2008-06-29,Chicago Pride,False,20080625230919
+New Orleans,2008-08-27,2008-08-27,Southern Decadence,False,20080724104742
+San Francisco,2008-09-28,2008-09-28,Folsom Street Fair,False,20080913071856
+Los Angeles,2008-10-03,2008-10-05,Gay Days Anaheim,False,20080930032343
+Palm Springs,2008-11-01,2008-11-02,Greater Palm Springs Pride,False,20080930032343
+Aspen,2009-01-11,2009-01-18,Gay and Lesbian Ski Week,True,20081220152307
+Miami,2009-01-25,2009-01-25,Atlantis Caribbean Cruise,True,20090121173320
+New Orleans,2009-02-19,2009-02-24,Gay Mardi Grass,True,20090219140144
+Miami,2009-02-25,2009-02-25,Winter Party Miami,True,20090121173320
+Miami,2009-02-25,2009-03-02,Winter Party Miami,True,20090222192240
+Miami,2009-03-08,2009-03-15,Atlantis Caribbean Cruise,False,20081102021536
+Fort Lauderdale,2009-03-08,2009-03-15,Atlantis Caribbean Cruise,True,20090222192240
+Las Vegas,2009-05-01,2009-05-02,Las Vegas Pride,True,20090421070047
+Chicago,2009-05-21,2009-05-25,International Mr Leather,True,20090421070047
+Orlando,2009-06-04,2009-06-07,Gay Days One Mighty Weekend,True,20090421070047
+Los Angeles,2009-06-12,2009-06-14,Los Angeles Pride,True,20090421070047
+New York,2009-06-20,2009-06-28,NYC Gay Pride,True,20090421070047
+San Francisco,2009-06-27,2009-06-28,San Francisco Pride,True,20090421070047
+Chicago,2009-06-28,2009-06-28,Chicago Pride,True,20090421070047
+San Diego,2009-07-18,2009-07-19,San Diego Pride,True,20090421070047
+New Orleans,2009-09-02,2009-09-07,Southern Decadence,True,20090820180634
+San Francisco,2009-09-27,2009-09-27,Folsom Street Fair,True,20090820180634
+Los Angeles,2009-10-02,2009-10-04,Gay Days Anaheim,True,20090820180634
+Los Angeles,2009-10-18,2009-10-24,Mexican Riviera Cruise,True,20090121173320
+Los Angeles,2009-10-18,2009-10-25,Atlantis LA Mexico gay cruise,True,20090820180634
+Palm Springs,2009-11-07,2009-11-08,Greater Palm Springs Pride,True,20090820180634
+Miami,2009-11-25,2009-11-30,White Party Week,True,20090820180634
+Miami,2010-01-17,2010-01-24,Atlantis Caribbean Cruise,True,20090820180634
+Aspen,2010-01-17,2010-01-24,Gay and Lesbian Ski Week,True,20090820180634
+New Orleans,2010-02-16,2010-02-16,Gay Mardi Grass,True,20090820180634
+Miami,2010-03-03,2010-03-08,Winter Party Miami,True,20090820180634
+Fort Lauderdale,2010-03-07,2010-03-14,Atlantis Caribbean Cruise,True,20090820180634
+Cleveland,2010-04-22,2010-04-25,Claw Leather Awareness,True,20100424005357
+Las Vegas,2010-04-30,2010-05-01,Las Vegas Pride,True,20100429143621
+Dallas,2010-04-30,2010-05-02,Purple Party,True,20100429143621
+New York,2010-05-16,2010-05-16,NY AIDS Walk,True,20100429143621
+Miami,2010-05-27,2010-06-01,Sizzle,True,20100429143621
+Chicago,2010-05-28,2010-05-31,International Mr Leather,True,20100429143621
+Key West,2010-05-29,2010-06-06,Key West PrideFest ,True,20100429143621
+Orlando,2010-06-01,2010-06-07,Disney Gay Days,True,20100429143621
+Orlando,2010-06-04,2010-06-06,One Mighty Weekend,True,20100429143621
+Boston,2010-06-04,2010-06-13,Boston Pride,True,20100429143621
+Washington,2010-06-04,2010-06-13,Capital pride,True,20100429143621
+Los Angeles,2010-06-11,2010-06-13,Los Angeles Pride,True,20100429143621
+New York,2010-06-19,2010-06-27,NYC Gay Pride,True,20100429143621
+Hawaii,2010-06-19,2010-06-19,Honolulu gay pride,True,20100429143621
+New York,2010-06-20,2010-06-20,Folsom Street East,True,20100429143621
+San Francisco,2010-06-26,2010-06-27,San Francisco Pride,True,20100429143621
+New York,2010-06-27,2010-06-27,Dance at the Pier,True,20100429143621
+Provincetown,2010-07-01,2010-07-08,Independence Weekend,True,20100429143621
+Provincetown,2010-07-10,2010-07-18,Bear Week,True,20100429143621
+San Diego,2010-07-17,2010-07-18,San Diego Pride,True,20100429143621
+San Francisco,2010-07-25,2010-07-25,Up Your Alley,True,20100429143621
+Chicago,2010-08-07,2010-08-08,Northalsted Market Days,True,20100429143621
+Provincetown,2010-08-15,2010-08-21,Carnival,True,20100429143621
+Black Rock Desert,2010-09-01,2010-09-01,Gay Pride at Burning man ,True,20100429143621
+New Orleans,2010-09-01,2010-09-06,Southern Decadence,True,20100429143621
+San Francisco,2010-09-26,2010-09-26,Folsom Street Fair,True,20100429143621
+Los Angeles,2010-10-01,2010-10-03,Gay Days Anaheim,True,20100429143621
+Los Angeles,2010-10-17,2010-10-24,Atlantis LA Mexico gay cruise,True,20100429143621
+Hawaii,2010-10-30,2010-11-06,RSVP Hawaiian Islands Cruise,True,20100429143621
+Palm Springs,2010-11-06,2010-11-07,Greater Palm Springs Pride,True,20100429143621
+Miami,2010-11-24,2010-11-29,White Party Week,True,20100429143621
+Washington,2011-01-14,2011-01-17,Mid Atlantic Leather Weekend,True,20100429143621
+Aspen,2011-01-16,2011-01-23,Gay and Lesbian Ski Week,True,20101222151431
+Fort Lauderdale,2011-02-06,2011-02-13,Atlantis Caribbean Cruise,True,20100429143621
+New Orleans,2011-03-04,2011-03-08,Gay Mardi Gras,True,20100429143621
+Miami,2011-03-09,2011-03-14,Winter Party Miami,True,20110221072625
+Fort Lauderdale,2011-03-12,2011-03-13,Pridefest South Florida,True,20110221072625
+Mammoth Lakes,2011-03-16,2011-03-20,Elevation Mammoth gay ski week,True,20110221072625
+Washington,2011-03-31,2011-04-03,Cherry,True,20110221072625
+Palm Springs,2011-04-08,2011-04-11,White Party Palm Springs,True,20110221072625
+Miami,2011-04-16,2011-04-16,Miami Beach gay pride,True,20110221072625
+Cleveland,2011-04-28,2011-05-01,Claw Leather Awareness,True,20110423050351
+Dallas,2011-04-29,2011-05-02,Purple Party,True,20110423050351
+Hawaii,2011-05-09,2011-05-15,Paradise Circuit Festival,True,20110423050351
+New York,2011-05-15,2011-05-15,NY AIDS Walk,True,20110423050351
+Los Angeles,2011-05-21,2011-05-22,Long Beach Pride,True,20110520094401
+Miami,2011-05-26,2011-05-31,Sizzle,True,20110520094401
+Washington,2011-05-26,2011-05-29,DC Black Pride,True,20110520094401
+Chicago,2011-05-27,2011-05-30,International Mr Leather,True,20110520094401
+Orlando,2011-05-31,2011-06-06,Disney Gay Days,True,20110520094401
+Washington,2011-06-02,2011-06-12,Capital pride,True,20110520094401
+Orlando,2011-06-02,2011-06-06,Wonder World,True,20110520094401
+Boston,2011-06-03,2011-06-12,Boston Pride,True,20110520094401
+Key West,2011-06-08,2011-06-11,Key West PrideFest ,True,20110221072625
+Key West,2011-06-08,2011-06-12,Key West PrideFest ,True,20110520094401
+Los Angeles,2011-06-10,2011-06-12,Los Angeles Pride,True,20110520094401
+Portland,2011-06-17,2011-06-19,Portland Pride,True,20110520094401
+New York,2011-06-18,2011-06-26,NYC Gay Pride,True,20110622195934
+New York,2011-06-19,2011-06-19,Folsom Street East,True,20110520094401
+New Orleans,2011-06-24,2011-06-27,Gay Pride New Orleans,True,20110622195934
+New York,2011-06-24,2011-06-24,Harlem Pride 2011,True,20110622195934
+San Francisco,2011-06-25,2011-06-26,San Francisco Pride,True,20110622195934
+Cleveland,2011-06-25,2011-06-25,Cleveland Pride,True,20110622195934
+Houston,2011-06-25,2011-06-25,Gay Pride Houston,True,20110622195934
+Seattle,2011-06-25,2011-06-26,Seattle Pride,True,20110622195934
+New York,2011-06-26,2011-06-26,Dance at the Pier,True,20110622195934
+Chicago,2011-06-26,2011-06-26,Chicago Pride,True,20110622195934
+Los Angeles,2011-06-30,2011-07-04,Black Pride at the Beach,True,20110622195934
+Las Vegas,2011-07-01,2011-07-04,Ripped,True,20110622195934
+Provincetown,2011-07-01,2011-07-07,Independence Weekend,True,20110622195934
+Provincetown,2011-07-03,2011-07-06,Summer Camp,True,20110622195934
+Provincetown,2011-07-09,2011-07-17,Bear Week,True,20110622195934
+San Diego,2011-07-15,2011-07-17,San Diego Pride,True,20110622195934
+San Francisco,2011-07-31,2011-07-31,Up Your Alley,True,20110622195934
+New York,2011-08-10,2011-08-14,NYC Black Pride: Explosion,True,20110810142048
+Chicago,2011-08-13,2011-08-14,Northalsted Market Days,True,20110810142048
+Provincetown,2011-08-14,2011-08-19,Carnival,True,20110810142048
+New Orleans,2011-08-31,2011-09-05,Southern Decadence,True,20110822223024
+Austin,2011-09-02,2011-09-05,Splash Days ,True,20110822223024
+Black Rock Desert,2011-09-02,2011-09-02,Gay Pride at Burning man ,True,20110822223024
+San Francisco,2011-09-04,2011-09-04,Oakland Gay Pride,True,20110822223024
+Hawaii,2011-09-15,2011-09-17,Honolulu gay pride,True,20110822223024
+Las Vegas,2011-09-16,2011-09-17,Las Vegas Pride,True,20110822223024
+San Francisco,2011-09-25,2011-09-25,Folsom Street Fair,True,20110822223024
+ Austin,2011-09-25,2011-09-25,Folsom Street Fair,True,20110925165843
+Los Angeles,2011-09-30,2011-10-02,Gay Days Anaheim,True,20110822223024
+ Austin,2011-09-30,2011-10-02,Gay Days Anaheim,True,20110925165843
+Atlanta,2011-10-08,2011-10-09,Atlanta Pride,True,20110822223024
+ Austin,2011-10-08,2011-10-09,Atlanta Pride,True,20111007102510
+Los Angeles,2011-10-15,2011-10-22,Atlantis LA Mexico gay cruise,True,20101222151431
+San Diego,2011-10-15,2011-10-22,Atlantis Mexican Riveira Cruise ,True,20110822223024
+ Austin,2011-10-15,2011-10-22,Atlantis Mexican Riveira Cruise ,True,20111016162129
+ Austin,2011-10-31,2011-10-31,Gay Halloween Streetparty,True,20111016162129
+Palm Springs,2011-11-05,2011-11-06,Greater Palm Springs Pride,True,20110822223024
+ Austin,2011-11-05,2011-11-06,Greater Palm Springs Pride,True,20111016162129
+Miami,2011-11-23,2011-11-28,White Party Week,True,20110822223024
+ Austin,2011-11-23,2011-11-28,White Party Week,True,20111110152134
+Washington,2012-01-13,2012-01-16,Mid Atlantic Leather Weekend,True,20110822223024
+ Austin,2012-01-13,2012-01-16,Mid Atlantic Leather Weekend,True,20120101020727
+Aspen,2012-01-15,2012-01-22,Gay and Lesbian Ski Week,True,20110822223024
+ Austin,2012-01-15,2012-01-22,Gay and Lesbian Ski Week,True,20120118221731
+Fort Lauderdale,2012-01-29,2012-02-05,Atlantis Caribbean Cruise,True,20110822223024
+ Austin,2012-01-29,2012-02-05,Atlantis Allure all gay cruise,True,20120118221731
+ Austin,2012-02-12,2012-02-19,RSVP Caribbean Cruise,True,20120214203114
+ Austin,2012-02-16,2012-02-20,Winter Heat,True,20120214203114
+New Orleans,2012-02-17,2012-02-21,Gay Mardi Gras,True,20110822223024
+ Austin,2012-02-17,2012-02-21,Gay Mardi Gras,True,20120214203114
+Miami,2012-02-29,2012-03-05,Winter Party Miami,True,20110822223024
+ Austin,2012-02-29,2012-03-05,Winter Party Miami,True,20120228150415
+ Austin,2012-03-10,2012-03-11,Pridefest South Florida,True,20120228150415
+Mammoth Lakes,2012-03-14,2012-03-18,Elevation Mammoth gay ski week,True,20110822223024
+ Austin,2012-03-14,2012-03-18,Elevation Mammoth gay ski week,True,20120314160457
+ Austin,2012-03-16,2012-03-25,LA Fetish Pride,True,20120314160457
+ Austin,2012-03-23,2012-03-24,The Black Party,True,20120314160457
+ Austin,2012-03-29,2012-04-01,Cherry,True,20120314160457
+Palm Springs,2012-04-06,2012-04-09,White Party Palm Springs,True,20110822223024
+ Austin,2012-04-06,2012-04-09,White Party Palm Springs,True,20120405022352
+ Austin,2012-04-08,2012-04-08,Gay Easter Parade,True,20120405022352
+Miami,2012-04-14,2012-04-14,Miami Beach gay pride,True,20110822223024
+ Austin,2012-04-14,2012-04-14,Miami Beach gay pride,True,20111222012504
+ Austin,2012-04-15,2012-04-15,Miami Beach gay pride,True,20120405022352
+Cleveland,2012-04-26,2012-04-29,Claw Leather Awareness,True,20110822223024
+ Austin,2012-04-26,2012-04-29,Claw Leather Awareness,True,20120421031942
+ Austin,2012-05-04,2012-05-07,Purple Party,True,20120502004836
+Hawaii,2012-05-10,2012-05-13,Paradise Circuit Festival,True,20110822223024
+ Austin,2012-05-10,2012-05-13,Paradise Circuit Festival,True,20120508112932
+ Austin,2012-05-19,2012-05-20,Long Beach Pride,True,20120514081857
+ Austin,2012-05-20,2012-05-20,NY AIDS Walk,True,20120514081857
+ Austin,2012-05-24,2012-05-29,Sizzle,True,20120514081857
+ Austin,2012-05-24,2012-05-28,DC Black Pride,True,20120514081857
+ Austin,2012-05-25,2012-05-28,Memorial Weekend,True,20120514081857
+Orlando,2012-05-29,2012-06-04,Disney Gay Days,True,20110822223024
+ Austin,2012-05-29,2012-06-04,Disney Gay Days,True,20120514081857
+ Austin,2012-05-30,2012-06-10,Capital pride,True,20120514081857
+ Austin,2012-05-31,2012-06-04,Wonder World,True,20120514081857
+ Austin,2012-06-02,2012-06-02,Honolulu gay pride,True,20120514081857
+Los Angeles,2012-06-08,2012-06-10,Los Angeles Pride,True,20110822223024
+ Austin,2012-06-08,2012-06-10,Los Angeles Pride,True,20120514081857
+ Austin,2012-06-09,2012-06-09,Boston Pride,True,20120514081857
+ Austin,2012-06-15,2012-06-17,Portland Pride,True,20120616003919
+ Austin,2012-06-16,2012-06-24,NYC Gay Pride,True,20120616003919
+ Austin,2012-06-17,2012-06-17,Folsom Street East,True,20120616003919
+ Austin,2012-06-22,2012-06-24,Harlem Pride,True,20120616003919
+San Francisco,2012-06-23,2012-06-24,San Francisco Pride,True,20110822223024
+ Austin,2012-06-23,2012-06-24,San Francisco Pride,True,20120616003919
+ Austin,2012-06-23,2012-06-23,Gay Pride Houston,True,20120616003919
+ Austin,2012-06-24,2012-06-24,Seattle Pride,True,20120616003919
+Los Angeles,2012-06-28,2012-07-02,Black Pride at the Beach,True,20110822223024
+ Austin,2012-06-28,2012-07-02,Black Pride at the Beach,True,20120625184950
+ Austin,2012-07-03,2012-07-06,Summer Camp,True,20120625184950
+ Austin,2012-07-07,2012-07-15,Bear Week,True,20120625184950
+ Austin,2012-07-18,2012-07-22,Sand Blast Weekend,True,20120625184950
+ Austin,2012-07-21,2012-07-22,San Diego Pride,True,20120625184950
+ Austin,2012-07-29,2012-07-29,Up Your Alley,True,20120625184950
+ Austin,2012-07-30,2012-07-05,Independence Weekend,True,20120625184950
+ Austin,2012-08-11,2012-08-12,Northalsted Market Days,True,20120804155106
+ Austin,2012-08-12,2012-08-18,Carnival,True,20120804155106
+ Austin,2012-08-16,2012-08-19,Tropical Heat,True,20120819214633
+ Austin,2012-08-30,2012-09-03,Southern Decadence,True,20120825082342
+ Austin,2012-08-31,2012-09-03,Splash Days ,True,20120825082342
+ Austin,2012-09-02,2012-09-02,Oakland Gay Pride,True,20120825082342
+Las Vegas,2012-09-04,2012-09-10,Gay Days Las Vegas,True,20110822223024
+ Austin,2012-09-04,2012-09-10,Gay Days Las Vegas,True,20120910164826
+Key West,2012-09-06,2012-09-10,Key West PrideFest ,True,20110822223024
+ Austin,2012-09-06,2012-09-10,Key West PrideFest ,True,20120910164826
+ Austin,2012-09-07,2012-09-08,Las Vegas Pride,True,20120825082342
+ Austin,2012-09-13,2012-09-16,Bear Bash,True,20120915052450
+ Austin,2012-09-22,2012-09-22,Austin Gay Pride,True,20120915052450
+ Austin,2012-09-23,2012-09-23,Folsom Street Fair,True,20120915052450
+ Austin,2012-10-01,2012-10-07,Orlando Pride,True,20120915052450
+ Austin,2012-10-05,2012-10-07,Gay Days Anaheim,True,20120915052450
+ Austin,2012-10-06,2012-10-06,Orlando Pride,True,20120825082342
+ Austin,2012-10-11,2012-10-11,Barbra Back To Brooklyn,True,20120915052450
+ Austin,2012-10-13,2012-10-14,Atlanta Pride,True,20120915052450
+ Austin,2012-10-13,2012-10-13,Pride @ the beach,True,20120915052450
+ Austin,2012-10-25,2012-10-31,Halloween,True,20121026150829
+ Austin,2012-10-28,2012-11-04,Atlantis LA Mexico gay cruise,True,20121026150829
+ Austin,2012-10-31,2012-10-31,Gay Halloween Streetparty,True,20121026150829
+ Austin,2012-11-04,2012-11-04,Greater Palm Springs Pride,True,20121026150829
+Miami,2012-11-21,2012-11-26,White Party Week,True,20121126084714
+ Austin,2012-11-21,2012-11-26,White Party Week,True,20121026150829
+Washington,2013-01-11,2013-01-14,Mid Atlantic Leather Weekend,True,20121227013902
+ Austin,2013-01-11,2013-01-14,Mid Atlantic Leather Weekend,True,20121026150829
+Aspen,2013-01-13,2013-01-20,Gay and Lesbian Ski Week,True,20130115080740
+ Austin,2013-01-13,2013-01-20,Gay and Lesbian Ski Week,True,20121026150829
+Fort Lauderdale,2013-02-02,2013-02-10,Atlantis Caribbean all gay cruise,True,20130115080740
+ Austin,2013-02-02,2013-02-10,Atlantis Caribbean all gay cruise,True,20121026150829
+New Orleans,2013-02-08,2013-02-12,Gay Mardi Gras,True,20130115080740
+ Austin,2013-02-08,2013-02-12,Gay Mardi Gras,True,20121026150829
+Fort Lauderdale,2013-02-09,2013-02-16,RSVP Mardi Gras Caribbean Cruise,True,20130115080740
+ Austin,2013-02-09,2013-02-16,RSVP Mardi Gras Caribbean Cruise,True,20121026150829
+Miami,2013-03-06,2013-03-11,Winter Party Miami,True,20130115080740
+ Austin,2013-03-06,2013-03-11,Winter Party Miami,True,20121026150829
+Fort Lauderdale,2013-03-09,2013-03-10,Pridefest South Florida,True,20130115080740
+ Austin,2013-03-09,2013-03-10,Pridefest South Florida,True,20121026150829
+Mammoth Lakes,2013-03-13,2013-03-17,Elevation Mammoth gay ski week,True,20130115080740
+ Austin,2013-03-13,2013-03-17,Elevation Mammoth gay ski week,True,20121026150829
+New York,2013-03-22,2013-03-24,The Black Party,True,20130115080740
+ Austin,2013-03-22,2013-03-24,The Black Party,True,20121026150829
+Palm Springs,2013-03-29,2013-04-01,White Party Palm Springs,True,20130115080740
+ Austin,2013-03-29,2013-04-01,White Party Palm Springs,True,20121026150829
+New Orleans,2013-03-31,2013-03-31,Gay Easter Parade,True,20130115080740
+ Austin,2013-03-31,2013-03-31,Gay Easter Parade,True,20121026150829
+Washington,2013-04-04,2013-04-07,Cherry,True,20121227013902
+Washington D.C,2013-04-04,2013-04-07,Cherry,True,20130115080740
+Miami,2013-04-14,2013-04-14,Miami Beach gay pride,True,20130115080740
+ Austin,2013-04-14,2013-04-14,Miami Beach gay pride,True,20121026150829
+Cleveland,2013-04-25,2013-04-28,Claw Leather Awareness,True,20130115080740
+ Austin,2013-04-25,2013-04-28,Claw Leather Awareness,True,20121026150829
+Dallas,2013-05-03,2013-05-06,Purple Party,True,20130502104732
+ Austin,2013-05-03,2013-05-06,Purple Party,True,20121026150829
+Los Angeles,2013-05-18,2013-05-19,Long Beach Pride,True,20130518162639
+New York,2013-05-19,2013-05-19,NY AIDS Walk,True,20130518162639
+Pensacola,2013-05-23,2013-05-27,Memorial Weekend,True,20130524134202
+Miami,2013-05-23,2013-05-28,Sizzle,True,20130524134202
+ Austin,2013-05-23,2013-05-27,Memorial Weekend,True,20121026150829
+Chicago,2013-05-24,2013-05-27,International Mr Leather,True,20130524134202
+Las Vegas,2013-05-24,2013-05-27,Matinee Festival,True,20130524134202
+Washington D.C,2013-05-24,2013-05-26,DC Black Pride,True,20130524134202
+ Austin,2013-05-24,2013-05-27,International Mr Leather,True,20121026150829
+Orlando,2013-05-28,2013-06-03,Disney Gay Days,True,20130524134202
+ Austin,2013-05-28,2013-06-03,Disney Gay Days,True,20121026150829
+Washington,2013-05-29,2013-06-09,Capital pride,True,20121227013902
+Washington D.C,2013-05-29,2013-06-09,Capital pride,True,20130524134202
+Orlando,2013-05-30,2013-06-03,Wonder World,True,20130524134202
+Boston,2013-05-31,2013-06-09,Boston Pride,True,20130524134202
+Orlando,2013-05-31,2013-06-02,One Mighty Weekend,True,20130524134202
+Hawaii,2013-06-01,2013-06-01,Honolulu gay pride,True,20130524134202
+ Austin,2013-06-01,2013-06-01,Honolulu gay pride,True,20121026150829
+Key West,2013-06-05,2013-06-09,Key West PrideFest ,True,20130524134202
+Dallas,2013-06-05,2013-06-08,Razzle Dazzle,True,20130524134202
+Los Angeles,2013-06-07,2013-06-09,Los Angeles Pride,True,20130524134202
+ Austin,2013-06-07,2013-06-09,Los Angeles Pride,True,20121026150829
+Detroit,2013-06-08,2013-06-09,Motor City Pride,True,20130524134202
+Philadelphia,2013-06-09,2013-06-09,Philly Gay Pride,True,20130524134202
+Rhode Island,2013-06-15,2013-06-15,Rhode Island Pride,True,20130524134202
+Denver,2013-06-15,2013-06-16,Gay Pride Fest Denver,True,20130524134202
+Portland,2013-06-15,2013-06-16,Portland Pride,True,20130524134202
+New Orleans,2013-06-20,2013-06-24,Gay Pride New Orleans,True,20130524134202
+Houston,2013-06-21,2013-06-30,Gay Pride Houston,True,20130524134202
+New York,2013-06-23,2013-06-23,Folsom Street East,True,20130524134202
+Chicago,2013-06-28,2013-06-30,Chicago Pride,True,20130524134202
+New York,2013-06-28,2013-06-30,NYC Gay Pride,True,20130524134202
+ Austin,2013-06-28,2013-06-30,Chicago Pride,True,20121026150829
+San Francisco,2013-06-29,2013-06-30,San Francisco Pride,True,20130524134202
+Seattle,2013-06-29,2013-06-30,Seattle Pride,True,20130524134202
+Cleveland,2013-06-29,2013-06-29,Cleveland Pride,True,20130524134202
+Minneapolis,2013-06-29,2013-06-30,Twin Cities Pride,True,20130524134202
+New York,2013-06-30,2013-06-30,Dance at the Pier,True,20130524134202
+Provincetown,2013-07-01,2013-07-06,Independence Weekend,True,20130524134202
+Provincetown,2013-07-03,2013-07-06,Summer Camp,True,20130524134202
+Los Angeles,2013-07-03,2013-07-07,Black Pride at the Beach,True,20130524134202
+San Diego,2013-07-12,2012-07-14,San Diego Pride,True,20130115080740
+San Diego,2013-07-12,2013-07-14,San Diego Pride,True,20130524134202
+Provincetown,2013-07-13,2013-07-21,Bear Week,True,20130721015633
+New York,2013-07-19,2013-07-21,Sand Blast Weekend,True,20130721015633
+Seattle,2013-07-21,2013-07-28,RSVP gay Alaska cruise,True,20130724162342
+San Francisco,2013-07-28,2013-07-28,Up Your Alley,True,20130724162342
+Chicago,2013-08-10,2013-08-11,Northalsted Market Days,True,20130810083652
+New York,2013-08-14,2013-08-18,NYC Black Pride: Explosion,True,20130818182510
+Key West,2013-08-15,2013-08-18,Tropical Heat,True,20130818182510
+New York,2013-08-16,2013-08-18,Ascension Fire Island,True,20130818182510
+Provincetown,2013-08-18,2013-08-24,Carnival,True,20130818182510
+Black Rock Desert,2013-08-26,2013-09-02,Burning man,True,20130818182510
+New Orleans,2013-08-28,2013-09-02,Southern Decadence,True,20130818182510
+New Orleans,2013-08-29,2013-09-02,Southern Decadence,True,20121227013902
+ Austin,2013-08-29,2013-09-02,Southern Decadence,True,20121026150829
+Austin,2013-08-30,2013-09-02,Splash Days ,True,20130818182510
+San Francisco,2013-09-01,2013-09-01,Oakland Gay Pride,True,20130818182510
+Las Vegas,2013-09-03,2013-09-09,Gay Days Las Vegas,True,20130818182510
+ Austin,2013-09-03,2013-09-09,Gay Days Las Vegas,True,20121026150829
+Las Vegas,2013-09-06,2013-09-07,Las Vegas Pride,True,20130818182510
+Austin,2013-09-07,2013-09-07,Austin Gay Pride,True,20130818182510
+Dallas,2013-09-15,2013-09-15,Dallas Gay Pride,True,20130818182510
+Orlando,2013-09-26,2013-09-29,Bear Bash,True,20130818182510
+San Francisco,2013-09-29,2013-09-29,Folsom Street Fair,True,20130818182510
+Orlando,2013-10-01,2013-10-06,Orlando Pride,True,20130818182510
+Los Angeles,2013-10-04,2013-10-06,Gay Days Anaheim,True,20130818182510
+Atlanta,2013-10-12,2013-10-13,Atlanta Pride,True,20130818182510
+Oceanside,2013-10-12,2013-10-12,Pride @ the beach,True,20130818182510
+Philadelphia,2013-10-13,2013-10-13,Outfest,True,20130818182510
+New York,2013-10-19,2013-10-26,Cruise4Bears NYC to Caribbean Cruise,True,20131018194707
+New Orleans,2013-10-24,2013-10-27,Halloween,True,20131018194707
+Palm Springs,2013-11-02,2013-11-03,Greater Palm Springs Pride,True,20131103171700
+Los Angeles,2013-11-10,2013-11-17,Atlantis LA Mexico gay cruise,True,20131103171700
+Miami,2013-11-27,2013-12-02,White Party Week,True,20131103171700
+Aspen,2014-01-12,2014-01-19,Gay and Lesbian Ski Week,True,20131227131208
+Washington D.C,2014-01-14,2014-01-17,Mid Atlantic Leather Weekend,True,20131227131208
+Las Vegas,2014-01-19,2014-01-19,Hustlaball Las Vegas,True,20131227131208
+Fort Lauderdale,2014-02-01,2014-12-08,Olivia Lesbian Cruise,True,20140217192042
+Fort Lauderdale,2014-02-02,2014-02-09,Atlantis Caribbean all gay cruise,True,20140208090951
+Miami,2014-02-15,2014-02-22,RSVP Caribbean Cruise,True,20140217192042
+New Orleans,2014-02-28,2014-03-04,Gay Mardi Gras,True,20140217192042
+Fort Lauderdale,2014-03-01,2014-03-02,Pridefest South Florida,True,20140217192042
+Miami,2014-03-05,2014-03-10,Winter Party Miami,True,20140217192042
+Mammoth Lakes,2014-03-12,2014-03-16,Elevation Mammoth gay ski week,True,20140217192042
+New York,2014-03-22,2014-03-22,The Black Party,True,20140217192042
+Los Angeles,2014-03-23,2014-03-30,LA Fetish Pride,True,20140217192042
+Phoenix,2014-04-05,2014-04-06,Phoenix gay pride,True,20140217192042
+Miami,2014-04-11,2014-04-13,Miami Beach gay pride,True,20140217192042
+New Orleans,2014-04-20,2014-04-20,Gay Easter Parade,True,20140217192042
+Cleveland,2014-04-24,2014-04-27,Claw Leather Awareness,True,20140217192042
+Palm Springs,2014-04-25,2014-04-28,White Party Palm Springs,True,20140217192042
+Palm Springs,2014-05-02,2014-05-04,Blatino Oasis,True,20140217192042
+Washington D.C,2014-05-06,2014-06-08,Capital pride,True,20131203134632
+Dallas,2014-05-09,2014-05-12,Purple Party,True,20140217192042
+Los Angeles,2014-05-17,2014-05-18,Long Beach Pride,True,20140217192042
+New York,2014-05-18,2014-05-18,NY AIDS Walk,True,20140217192042
+Pensacola,2014-05-22,2014-05-26,Memorial Weekend,True,20140217192042
+Miami,2014-05-22,2014-05-27,Sizzle,True,20140217192042
+Chicago,2014-05-23,2014-05-26,International Mr Leather,True,20140217192042
+Washington D.C,2014-05-23,2014-05-26,DC Black Pride,True,20140217192042
+Orlando,2014-06-03,2014-06-10,Disney Gay Days,True,20140217192042
+Orlando,2014-06-05,2014-06-08,One Mighty Weekend,True,20140217192042
+Los Angeles,2014-06-06,2014-06-08,Los Angeles Pride,True,20140217192042
+Dallas,2014-06-06,2014-06-08,Razzle Dazzle,True,20140217192042
+Boston,2014-06-06,2014-06-16,Boston Pride,True,20140217192042
+Washington D.C,2014-06-06,2014-06-08,Capital pride,True,20140217192042
+Hawaii,2014-06-07,2014-06-07,Honolulu gay pride,True,20140217192042
+Detroit,2014-06-07,2014-06-08,Motor City Pride,True,20140217192042
+Philadelphia,2014-06-08,2014-06-08,Philly Gay Pride,True,20140217192042
+Key West,2014-06-11,2014-06-15,Key West PrideFest,True,20140217192042
+Portland,2014-06-14,2014-06-15,Portland Pride,True,20140217192042
+New Orleans,2014-06-20,2014-06-22,Gay Pride New Orleans,True,20140621041238
+Houston,2014-06-21,2014-06-30,Gay Pride Houston,True,20140625131713
+Rhode Island,2014-06-21,2014-06-21,Rhode Island Pride,True,20140621041238
+Chicago,2014-06-21,2014-06-22,Chicago Pride,True,20140621041238
+Denver,2014-06-21,2014-06-22,Gay Pride Fest Denver,True,20140621041238
+New York,2014-06-22,2014-06-22,Folsom Street East,True,20140621041238
+New York,2014-06-22,2014-06-29,Harlem Pride,True,20140625131713
+New York,2014-06-27,2014-06-29,NYC Gay Pride,True,20140625131713
+San Francisco,2014-06-28,2014-06-29,San Francisco Pride,True,20140625131713
+Seattle,2014-06-28,2014-06-29,Seattle Pride,True,20140625131713
+Provincetown,2014-06-28,2014-07-05,Independence Weekend,True,20140625131713
+Cleveland,2014-06-28,2014-06-28,Cleveland Pride,True,20140625131713
+Minneapolis,2014-06-28,2014-06-29,Twin Cities Pride,True,20140625131713
+New York,2014-06-29,2014-06-29,Dance at the Pier,True,20140625131713
+Los Angeles,2014-07-04,2014-07-06,Black Pride at the Beach,True,20140625131713
+Provincetown,2014-07-12,2014-07-20,Bear Week,True,20140625131713
+San Diego,2014-07-16,2014-07-20,San Diego Pride,True,20140625131713
+New York,2014-07-18,2014-07-20,Sand Blast Weekend,True,20140625131713
+San Francisco,2014-07-27,2014-07-27,Up Your Alley,True,20140625131713
+Cleveland,2014-08-09,2014-08-16,2014 Gay Games,True,20140625131713
+Chicago,2014-08-09,2014-08-10,Northalsted Market Days,True,20140625131713
+Key West,2014-08-14,2014-08-17,Tropical Heat,True,20140625131713
+New York,2014-08-15,2014-08-17,Ascension Fire Island,True,20140625131713
+Provincetown,2014-08-16,2014-08-22,Carnival,True,20140625131713
+Black Rock Desert,2014-08-25,2014-09-01,Burning man,True,20140625131713
+New Orleans,2014-08-27,2014-09-01,Southern Decadence,True,20140625131713
+Austin,2014-08-30,2014-09-01,Splash Days,True,20140625131713
+San Francisco,2014-08-31,2014-08-31,Oakland Gay Pride,True,20140625131713
+Las Vegas,2014-09-02,2014-09-08,Gay Days Las Vegas,True,20140625131713
+Las Vegas,2014-09-05,2014-09-06,Las Vegas Pride,True,20140625131713
+Miami,2014-09-11,2014-09-15,Kiki Cruise,True,20140625131713
+Austin,2014-09-20,2014-09-20,Austin Gay Pride,True,20140625131713
+Dallas,2014-09-21,2014-09-21,Dallas Gay Pride,True,20140625131713
+San Francisco,2014-09-21,2014-09-21,Folsom Street Fair,True,20140625131713
+Orlando,2014-09-25,2014-09-28,Bear Bash,True,20140625131713
+Orlando,2014-09-29,2014-10-05,Orlando Pride,True,20140625131713
+Los Angeles,2014-10-03,2014-10-05,Gay Days Anaheim,True,20140625131713
+Los Angeles,2014-10-05,2014-10-13,Atlantis LA Mexico gay cruise,True,20140625131713
+Atlanta,2014-10-11,2014-10-12,Atlanta Pride,True,20140625131713
+Oceanside,2014-10-11,2014-10-11,Pride @ the beach,True,20140625131713
+New Orleans,2014-10-23,2014-10-26,Halloween,True,20140625131713
+Los Angeles,2014-10-31,2014-10-31,Gay Halloween Streetparty,True,20140625131713
+Palm Springs,2014-11-08,2014-11-09,Greater Palm Springs Pride,True,20140625131713
+Tampa,2014-11-23,2014-11-30,Olivia Lesbian Cruise,True,20141111033426
+Miami,2014-11-26,2014-12-01,White Party Week,True,20141111033426
+Las Vegas,2014-12-30,2015-01-01,Evolve Vegas NYE,True,20141111033426
+Aspen,2015-01-11,2015-01-18,Gay and Lesbian Ski Week,True,20141111033426
+Washington D.C,2015-01-16,2015-01-19,Mid Atlantic Leather Weekend,True,20141111033426
+Las Vegas,2015-01-18,2015-01-18,Hustlaball Las Vegas,True,20141111033426
+Fort Lauderdale,2015-02-01,2015-02-08,Atlantis Caribbean all gay cruise,True,20150206071059
+Fort Lauderdale,2015-02-08,2015-02-15,RSVP Caribbean Cruise,True,20150209072027
+New Orleans,2015-02-13,2015-02-17,Gay Mardi Gras,True,20150209072027
+Fort Lauderdale,2015-02-28,2015-03-01,Pridefest South Florida,True,20150221185553
+Miami,2015-03-04,2015-03-09,Winter Party Miami,True,20150305025840
+Mammoth Lakes,2015-03-18,2015-03-22,Elevation Mammoth gay ski week,True,20150320042803
+New York,2015-03-21,2015-03-21,The Black Party,True,20150320042803
+Los Angeles,2015-03-22,2015-03-29,LA Fetish Pride,True,20150328094953
+New Orleans,2015-04-05,2015-04-05,Gay Easter Parade,True,20150328094953
+Miami,2015-04-10,2015-04-12,Miami Beach gay pride,True,20150408041928
+Cleveland,2015-04-23,2015-04-26,Claw Leather Awareness,True,20150408041928
+Palm Springs,2015-04-24,2015-04-27,White Party Palm Springs,True,20150408041928
+Palm Springs,2015-05-01,2015-05-03,Blatino Oasis,True,20150408041928
+Dallas,2015-05-08,2015-05-11,Purple Party,True,20150508011054
+Los Angeles,2015-05-16,2015-05-17,Long Beach Pride,True,20150508011054
+Pensacola,2015-05-21,2015-05-25,Memorial Weekend,True,20150508011054
+Miami,2015-05-21,2015-05-25,Sizzle,True,20150508011054
+Chicago,2015-05-22,2015-05-25,International Mr Leather,True,20150508011054
+Las Vegas,2015-05-22,2015-05-25,Matinee Las Vegas Festival,True,20150508011054
+Orlando,2015-06-02,2015-06-08,Disney Gay Days,True,20150608071721
+Boston,2015-06-05,2015-06-14,Boston Pride,True,20150608071721
+Washington D.C,2015-06-05,2015-06-14,Capital pride,True,20150608071721
+Orlando,2015-06-05,2015-06-07,One Magical Weekend,True,20150508011054
+Hawaii,2015-06-06,2015-06-06,Honolulu gay pride,True,20150508011054
+Detroit,2015-06-06,2015-06-07,Motor City Pride,True,20150508011054
+Key West,2015-06-10,2015-06-14,Key West PrideFest,True,20150608071721
+Los Angeles,2015-06-12,2015-06-14,Los Angeles Pride,True,20150608071721
+Portland,2015-06-13,2015-06-14,Portland Pride,True,20150608071721
+Philadelphia,2015-06-14,2015-06-14,Philly Gay Pride,True,20150608071721
+New Orleans,2015-06-19,2015-06-21,Gay Pride New Orleans,True,20150608071721
+Houston,2015-06-19,2015-06-28,Gay Pride Houston,True,20150608071721
+Chicago,2015-06-20,2015-06-28,Chicago Pride,True,20150608071721
+Denver,2015-06-20,2015-06-21,Gay Pride Fest Denver,True,20150608071721
+New York,2015-06-26,2015-06-28,NYC Gay Pride,True,20150608071721
+San Francisco,2015-06-27,2015-06-28,San Francisco Pride,True,20150608071721
+Minneapolis,2015-06-27,2015-06-28,Twin Cities Pride,True,20150608071721
+Seattle,2015-06-27,2015-06-28,Seattle Pride,True,20150608071721
+New York,2015-06-28,2015-06-28,Dance at the Pier,True,20150608071721
+Provincetown,2015-07-02,2015-07-10,Independence Weekend,True,20150608071721
+Los Angeles,2015-07-03,2015-07-06,Black Pride at the Beach,True,20150608071721
+Provincetown,2015-07-11,2015-07-19,Bear Week,True,20150608071721
+San Diego,2015-07-17,2015-07-18,San Diego Pride,True,20150608071721
+San Francisco,2015-07-26,2015-07-26,Up Your Alley,True,20150608071721
+Seattle,2015-08-01,2015-08-08,RSVP gay Alaska cruise,True,20150801025925
+Chicago,2015-08-08,2015-08-09,Northalsted Market Days,True,20150801025925
+Key West,2015-08-13,2015-08-16,Tropical Heat,True,20150810140229
+Austin,2015-08-29,2015-08-29,Austin Gay Pride,True,20150820052720
+Black Rock Desert,2015-08-31,2015-09-07,Burning man,True,20150907014517
+New Orleans,2015-09-02,2015-09-07,Southern Decadence,True,20150907014517
+Austin,2015-09-04,2015-09-07,Splash Days,True,20150907014517
+Las Vegas,2015-09-08,2015-09-14,Gay Days Las Vegas,True,20150908202707
+San Francisco,2015-09-13,2015-09-13,Oakland Gay Pride,True,20150908202707
+Las Vegas,2015-09-18,2015-09-19,Las Vegas Pride,True,20150908202707
+Dallas,2015-09-20,2015-09-20,Dallas Gay Pride,True,20150908202707
+Orlando,2015-09-22,2015-09-27,Bear Bash,True,20150923151241
+San Francisco,2015-09-27,2015-09-27,Folsom Street Fair,True,20150923151241
+Los Angeles,2015-10-02,2015-10-04,Gay Days Anaheim,True,20150923151241
+Orlando,2015-10-08,2015-10-10,Orlando Pride,True,20151009080824
+Atlanta,2015-10-10,2015-10-11,Atlanta Pride,True,20151009080824
+Oceanside,2015-10-10,2015-10-10,Pride @ the beach,True,20151009080824
+Fort Lauderdale,2015-10-10,2015-10-11,Pridefest South Florida,True,20151009080824
+Philadelphia,2015-10-11,2015-10-11,Outfest,True,20151009080824
+Los Angeles,2015-10-25,2015-11-01,Atlantis LA Mexico gay cruise,True,20151025080402
+New Orleans,2015-10-29,2015-11-01,Halloween,True,20151025080402
+Los Angeles,2015-10-31,2015-10-31,Gay Halloween Streetparty,True,20151025080402
+Palm Springs,2015-11-06,2015-11-08,Greater Palm Springs Pride,True,20151025080402
+Miami,2015-11-26,2015-11-30,White Party Week,True,20151113081840
+Washington D.C,2016-01-15,2016-01-18,Mid Atlantic Leather Weekend,True,20160103162350
+Aspen,2016-01-17,2016-01-24,Gay and Lesbian Ski Week,True,20160121002803
+Fort Lauderdale,2016-01-23,2016-01-31,Atlantis Caribbean all gay cruise,True,20160129194805
+New Orleans,2016-02-05,2016-02-09,Gay Mardi Gras,True,20160206133029
+Fort Lauderdale,2016-02-07,2016-02-14,RSVP Caribbean Cruise,True,20160206133029
+Miami,2016-03-02,2016-03-07,Winter Party Miami,True,20160306231958
+Mammoth Lakes,2016-03-16,2016-03-20,Elevation Mammoth gay ski week,True,20160314101730
+New York,2016-03-19,2016-03-19,The Black Party,True,20160314101730
+New Orleans,2016-03-27,2016-03-27,Gay Easter Parade,True,20160325094701
+Los Angeles,2016-03-27,2016-04-03,LA Fetish Pride,True,20160329153126
+Phoenix,2016-04-02,2016-04-03,Phoenix gay pride,True,20160329153126
+Miami,2016-04-08,2016-04-10,Miami Beach gay pride,True,20160329153126
+Palm Springs,2016-04-08,2016-04-11,White Party Palm Springs,True,20160329153126
+Washington D.C,2016-04-14,2016-04-17,Cherry,True,20160414162521
+Cleveland,2016-04-28,2016-05-01,Claw Leather Awareness,True,20160429063314
+Palm Springs,2016-05-05,2016-05-08,Blatino Oasis,True,20160429063314
+Dallas,2016-05-13,2016-05-16,Purple Party,True,20160516033420
+New York,2016-05-21,2016-05-28,Atlantis all gay cruise New York,True,20160516033420
+Los Angeles,2016-05-21,2016-05-22,Long Beach Pride,True,20160516033420
+Miami,2016-05-26,2016-05-30,Sizzle,True,20160516033420
+Washington D.C,2016-05-27,2016-05-30,DC Black Pride,True,20160516033420
+Chicago,2016-05-27,2016-05-30,International Mr Leather,True,20160516033420
+Las Vegas,2016-05-27,2016-05-30,Matinee Las Vegas Festival,True,20160516033420
+Orlando,2016-05-31,2016-06-06,Disney Gay Days,True,20160516033420
+Orlando,2016-06-03,2016-06-05,One Magical Weekend,True,20160516033420
+Boston,2016-06-03,2016-06-12,Boston Pride,True,20160610154341
+Key West,2016-06-08,2016-06-12,Key West PrideFest,True,20160610154341
+Los Angeles,2016-06-10,2016-06-12,Los Angeles Pride,True,20160610154341
+Washington D.C,2016-06-11,2016-06-12,Capital pride,True,20160610154341
+Detroit,2016-06-11,2016-06-12,Motor City Pride,True,20160610154341
+Philadelphia,2016-06-12,2016-06-12,Philly Gay Pride,True,20160610154341
+New Orleans,2016-06-17,2016-06-19,Gay Pride New Orleans,True,20160610154341
+Rhode Island,2016-06-18,2016-06-18,Rhode Island Pride,True,20160610154341
+Chicago,2016-06-18,2016-06-19,Chicago Pride,True,20160610154341
+Denver,2016-06-18,2016-06-19,Gay Pride Fest Denver,True,20160610154341
+New York,2016-06-19,2016-06-19,Folsom Street East,True,20160610154341
+New York,2016-06-19,2016-06-26,NYC Gay Pride,True,20160610154341
+Houston,2016-06-19,2016-06-26,Gay Pride Houston,True,20160610154341
+San Francisco,2016-06-25,2016-06-26,San Francisco Pride,True,20160610154341
+Seattle,2016-06-25,2016-06-26,Seattle Pride,True,20160610154341
+Minneapolis,2016-06-25,2016-06-27,Twin Cities Pride,True,20160610154341
+Provincetown,2016-06-30,2016-07-07,Independence Weekend,True,20160610154341
+Provincetown,2016-07-09,2016-07-17,Bear Week,True,20160712041902
+San Diego,2016-07-15,2016-07-17,San Diego Pride,True,20160712041902
+San Francisco,2016-07-26,2016-07-26,Up Your Alley,True,20160516033420
+Key West,2016-08-11,2016-08-14,Tropical Heat,True,20160811182559
+Provincetown,2016-08-13,2016-08-19,Carnival,True,20160811182559
+Chicago,2016-08-13,2016-08-14,Northalsted Market Days,True,20160811182559
+Cleveland,2016-08-13,2016-08-13,Cleveland Pride,True,20160811182559
+Austin,2016-08-27,2016-08-27,Austin Gay Pride,True,20160811182559
+Black Rock Desert,2016-08-28,2016-09-05,Burning man,True,20160902062753
+New Orleans,2016-08-31,2016-09-05,Southern Decadence,True,20160902062753
+Austin,2016-09-02,2016-09-05,Splash Days,True,20160902062753
+Las Vegas,2016-09-06,2016-09-12,Gay Days Las Vegas,True,20160902062753
+San Francisco,2016-09-11,2016-09-11,Oakland Gay Pride,True,20160902062753
+Las Vegas,2016-09-16,2016-09-17,Las Vegas Pride,True,20160902062753
+Dallas,2016-09-18,2016-09-18,Dallas Gay Pride,True,20160902062753
+Orlando,2016-09-20,2016-09-25,Bear Bash,True,20160923132242
+San Francisco,2016-09-25,2016-09-25,Folsom Street Fair,True,20160923132242
+Los Angeles,2016-09-30,2016-10-02,Gay Days Anaheim,True,20160923132242
+Atlanta,2016-10-08,2016-10-09,Atlanta Pride,True,20161007141134
+Oceanside,2016-10-08,2016-10-08,Pride @ the beach,True,20161007141134
+Orlando,2016-10-08,2016-10-08,Orlando Pride,True,20161007141134
+New Orleans,2016-10-27,2016-10-30,Halloween,True,20161017221752
+San Diego,2016-10-29,2016-11-05,Atlantis Mexico Halloween cruise,True,20161017221752
+Los Angeles,2016-10-31,2016-10-31,Gay Halloween Streetparty,True,20161017221752
+Palm Springs,2016-11-04,2016-11-06,Greater Palm Springs Pride,True,20161017221752
+Miami,2016-11-25,2016-11-28,White Party Week,True,20161128184001
+Las Vegas,2016-12-31,2016-12-31,Evolve Vegas NYE,True,20161128184001
+Washington D.C,2017-01-13,2017-01-15,Mid Atlantic Leather Weekend,True,20161128184001
+Aspen,2017-01-15,2017-01-22,Gay and Lesbian Ski Week,True,20161128184001
+Fort Lauderdale,2017-01-22,2017-01-29,Atlantis Caribbean all gay cruise,True,20161128184001
+Fort Lauderdale,2017-02-05,2017-02-12,RSVP Caribbean Cruise,True,20161128184001
+New Orleans,2017-02-24,2017-02-28,Gay Mardi Gras,True,20170216000808
+Fort Lauderdale,2017-02-26,2017-02-26,Pride Fort Lauderdale,True,20170216000808
+Miami,2017-03-01,2017-03-06,Winter Party Miami,True,20170216000808
+Mammoth Lakes,2017-03-15,2017-03-19,Elevation Mammoth gay ski week,True,20170216000808
+Phoenix,2017-04-01,2017-04-02,Phoenix gay pride,True,20170216000808
+Miami,2017-04-07,2017-04-09,Miami Beach gay pride,True,20170216000808
+New Orleans,2017-04-16,2017-04-16,Gay Easter Parade,True,20170216000808
+Washington D.C,2017-04-20,2017-04-23,Cherry,True,20170216000808
+Cleveland,2017-04-27,2017-04-30,Claw Leather Awareness,True,20170430133150
+Dallas,2017-04-28,2017-05-01,Purple Party,True,20170430133150
+Palm Springs,2017-05-04,2017-05-07,Blatino Oasis,True,20170430133150
+Palm Springs,2017-05-05,2017-05-08,White Party Palm Springs,True,20170430133150
+Los Angeles,2017-05-20,2017-05-21,Long Beach Pride,True,20170430133150
+Chicago,2017-05-25,2017-05-29,International Mr Leather,True,20170430133150
+Miami,2017-05-25,2017-05-29,Sizzle,True,20170430133150
+Miami,2017-05-26,2017-06-04,4th World Outgames 2017,True,20170430133150
+Washington D.C,2017-05-26,2017-05-29,DC Black Pride,True,20170430133150
+Las Vegas,2017-05-26,2017-05-29,Matinee Las Vegas Festival,True,20170430133150
+Orlando,2017-05-30,2017-06-05,Disney Gay Days,True,20170430133150
+Orlando,2017-06-02,2017-06-04,One Magical Weekend,True,20170430133150
+Boston,2017-06-03,2017-06-11,Boston Pride,True,20170606142336
+Key West,2017-06-07,2017-06-11,Key West PrideFest,True,20170606142336
+Washington D.C,2017-06-09,2017-06-11,Capital pride,True,20170606142336
+New Orleans,2017-06-09,2017-06-11,Gay Pride New Orleans,True,20170606142336
+Detroit,2017-06-10,2017-06-11,Motor City Pride,True,20170606142336
+Portland,2017-06-17,2017-06-18,Portland Pride,True,20170612224258
+New York,2017-06-17,2017-06-25,NYC Gay Pride,True,20170624193132
+New York,2017-06-18,2017-06-18,Folsom Street East,True,20170612224258
+Houston,2017-06-18,2017-06-25,Gay Pride Houston,True,20170624193132
+Chicago,2017-06-24,2017-06-25,Chicago Pride,True,20170624193132
+Cleveland,2017-06-24,2017-06-24,Cleveland Pride,True,20170624193132
+San Francisco,2017-06-24,2017-06-25,San Francisco Pride,True,20170624193132
+Seattle,2017-06-25,2017-06-25,Seattle Pride,True,20170624193132
+Provincetown,2017-06-29,2017-07-06,Independence Weekend,True,20170703064340
+Provincetown,2017-07-08,2017-07-16,Bear Week,True,20170703064340
+Seattle,2017-08-05,2017-08-12,RSVP gay Alaska cruise,True,20170718072114
+Chicago,2017-08-12,2017-08-13,Northalsted Market Days,True,20170718072114
+Black Rock Desert,2017-08-27,2017-09-04,Burning man,True,20170818204900
+New Orleans,2017-08-30,2017-09-04,Southern Decadence,True,20170818204900
+Dallas,2017-09-16,2017-09-17,Dallas Pride Weekend,True,20170818204900
+Orlando,2017-09-26,2017-10-01,Bear Bash,True,20170919072341
+Austin,2017-09-30,2017-09-30,Austin Gay Pride,True,20170919072341
+Los Angeles,2017-10-06,2017-10-08,Gay Days Anaheim,True,20171007081717
+San Diego,2017-10-14,2017-10-21,Atlantis Mexico cruise,True,20171021034442
+Las Vegas,2017-10-20,2017-10-22,Las Vegas Pride,True,20171021034442
+Hawaii,2017-10-21,2017-10-21,Honolulu gay pride,True,20171021034442
+Austin,2017-10-21,2017-10-21,Austin Gay Pride,True,20171021034442
+Los Angeles,2017-10-31,2017-10-31,Gay Halloween Streetparty,True,20171021034442
+Palm Springs,2017-11-03,2017-11-05,Greater Palm Springs Pride,True,20171021034442
+Miami,2017-11-23,2017-11-27,White Party Week,True,20171119010656
+Aspen,2018-01-14,2018-01-21,Gay and Lesbian Ski Week,True,20180120232738
+Fort Lauderdale,2018-01-20,2018-01-27,Atlantis Caribbean all gay cruise,True,20180120232738
+New Orleans,2018-02-09,2018-02-13,Gay Mardi Gras,True,20180206181114
+Fort Lauderdale,2018-02-09,2018-02-11,Pride Fort Lauderdale,True,20180206181114
+Fort Lauderdale,2018-02-11,2018-02-18,RSVP Caribbean Cruise,True,20180214023437
+Miami,2018-02-28,2018-03-06,Winter Party Miami,True,20180214023437
+Mammoth Lakes,2018-03-14,2018-03-18,Elevation Mammoth gay ski week,True,20180318061951
+New Orleans,2018-04-01,2018-04-01,Gay Easter Parade,True,20180318061951
+Miami,2018-04-02,2018-04-08,Miami Beach gay pride,True,20180408065530
+Tampa,2018-04-02,2018-04-09,Olivia Lesbian Cruise,True,20180408065530
+Phoenix,2018-04-07,2018-04-08,Phoenix gay pride,True,20180408065530
+Washington D.C,2018-04-12,2018-04-15,Cherry,True,20180408065530
+Cleveland,2018-04-26,2018-04-29,Claw Leather Awareness,True,20180620225535
+Palm Springs,2018-04-27,2018-04-30,White Party Palm Springs,True,20180620225535
+Palm Springs,2018-05-04,2018-05-06,Blatino Oasis,True,20180620225535
+Dallas,2018-05-11,2018-05-14,Purple Party,True,20180620225535
+Los Angeles,2018-05-19,2018-05-20,Long Beach Pride,True,20180620225535
+New York,2018-05-20,2018-05-20,NY AIDS Walk,True,20180620225535
+Chicago,2018-05-24,2018-05-28,International Mr Leather,True,20180620225535
+Miami,2018-05-24,2018-05-28,Sizzle,True,20180620225535
+Washington D.C,2018-05-25,2018-05-28,DC Black Pride,True,20180620225535
+Las Vegas,2018-05-25,2018-05-28,Matinee Las Vegas Festival,True,20180620225535
+Orlando,2018-05-29,2018-06-03,Disney Gay Days,True,20180620225535
+Orlando,2018-06-01,2018-06-04,One Magical Weekend,True,20180620225535
+Boston,2018-06-01,2018-06-10,Boston Pride,True,20180620225535
+Key West,2018-06-06,2018-06-10,Key West PrideFest,True,20180620225535
+Washington D.C,2018-06-07,2018-06-10,Capital pride,True,20180620225535
+New Orleans,2018-06-08,2018-06-10,Gay Pride New Orleans,True,20180620225535
+Los Angeles,2018-06-09,2018-06-10,Los Angeles Pride,True,20180620225535
+Detroit,2018-06-09,2018-06-10,Motor City Pride,True,20180620225535
+Philadelphia,2018-06-10,2018-06-10,Philly Gay Pride,True,20180620225535
+New York,2018-06-15,2018-06-24,NYC Gay Pride,True,20180620225535
+Denver,2018-06-16,2018-06-17,Gay Pride Fest Denver,True,20180620225535
+Portland,2018-06-16,2018-06-17,Portland Pride,True,20180620225535
+Rhode Island,2018-06-16,2018-06-16,Rhode Island Pride,True,20180620225535
+New York,2018-06-17,2018-06-17,Folsom Street East,True,20180620225535
+Chicago,2018-06-23,2018-06-24,Chicago Pride,True,20180620225535
+San Francisco,2018-06-23,2018-06-24,San Francisco Pride,True,20180620225535
+Seattle,2018-06-23,2018-06-24,Seattle Pride,True,20180620225535
+Minneapolis,2018-06-23,2018-06-24,Twin Cities Pride,True,20180620225535
+Houston,2018-06-24,2018-06-30,Gay Pride Houston,True,20180620225535
+Provincetown,2018-06-27,2018-07-06,Independence Weekend,True,20180620225535
+Provincetown,2018-07-07,2018-07-15,Bear Week,True,20180620225535
+San Diego,2018-07-14,2018-07-15,San Diego Pride,True,20180620225535
+San Francisco,2018-07-29,2018-07-29,Up Your Alley,True,20180620225535
+Chicago,2018-08-11,2018-08-12,Northalsted Market Days,True,20180620225535
+Provincetown,2018-08-11,2018-08-17,Carnival,True,20180620225535
+Key West,2018-08-15,2018-08-19,Tropical Heat,True,20180620225535
+New York,2018-08-15,2018-08-19,NYC Black Pride: Explosion,True,20180620225535
+Austin,2018-08-25,2018-08-25,Austin Gay Pride,True,20180620225535
+Black Rock Desert,2018-08-26,2018-09-03,Burning man,True,20180620225535
+New Orleans,2018-08-30,2018-09-03,Southern Decadence,True,20180620225535
+San Francisco,2018-09-09,2018-09-09,Oakland Gay Pride,True,20180620225535
+Dallas,2018-09-15,2018-09-16,Dallas Pride Weekend,True,20180620225535
+Orlando,2018-09-25,2018-09-30,Bear Bash,True,20180620225535
+ Orlando,2018-09-25,2018-09-30,Bear Bash ,True,20180926171433
+San Francisco,2018-09-30,2018-09-30,Folsom Street Fair,True,20180620225535
+ San Francisco,2018-09-30,2018-09-30,Folsom Street Fair ,True,20180926171433
+Los Angeles,2018-10-05,2018-10-07,Gay Days Anaheim,True,20180620225535
+ Los Angeles,2018-10-05,2018-10-07,Gay Days Anaheim ,True,20180926171433
+Atlanta,2018-10-13,2018-10-14,Atlanta Pride,True,20180620225535
+Orlando,2018-10-13,2018-10-13,Orlando Pride,True,20180620225535
+ Orlando,2018-10-13,2018-10-13,Orlando Pride ,True,20181208102934
+ ,2018-10-13,2018-10-13,Pride @ the beach ,True,20181208102934
+ Atlanta,2018-10-13,2018-10-14,Atlanta Pride ,True,20181208102934
+San Diego,2018-10-14,2018-10-21,Atlantis Mexico cruise,True,20180620225535
+ San Diego,2018-10-14,2018-10-21,Atlantis Mexico cruise ,True,20181208102934
+Las Vegas,2018-10-19,2018-10-21,Las Vegas Pride,True,20180620225535
+ Las Vegas,2018-10-19,2018-10-21,Las Vegas Pride ,True,20181208102934
+Hawaii,2018-10-20,2018-10-20,Honolulu gay pride,True,20180620225535
+ Hawaii,2018-10-20,2018-10-20,Honolulu gay pride ,True,20181208102934
+New Orleans,2018-10-26,2018-10-28,Halloween,True,20180620225535
+ New Orleans,2018-10-26,2018-10-28,Halloween ,True,20181208102934
+Los Angeles,2018-10-31,2018-10-31,Gay Halloween Streetparty,True,20180620225535
+ Los Angeles,2018-10-31,2018-10-31,Gay Halloween Streetparty ,True,20181208102934
+Palm Springs,2018-11-02,2018-11-04,Greater Palm Springs Pride,True,20180620225535
+ Palm Springs,2018-11-02,2018-11-04,Greater Palm Springs Pride ,True,20181208102934
+Miami,2018-11-22,2018-11-26,White Party Week,True,20180620225535
+ Miami,2018-11-22,2018-11-26,White Party Week ,True,20181208102934
+ Fort Lauderdale,2018-11-23,2018-12-03,Pig Week ,True,20181208102934
+ ,2018-12-07,2018-12-09,Black XXXMas ,True,20181208102934
+Aspen,2019-01-13,2019-01-20,Gay and Lesbian Ski Week,True,20180620225535
+ Aspen,2019-01-13,2019-01-20,Gay and Lesbian Ski Week ,True,20181208102934
+Washington D.C,2019-01-18,2019-01-20,Mid Atlantic Leather Weekend,True,20180620225535
+ Washington D.C,2019-01-18,2019-01-20,Mid Atlantic Leather Weekend ,True,20181208102934
+Miami,2019-02-03,2019-02-10,Atlantis Allure all gay cruise,True,20180620225535
+ Miami,2019-02-03,2019-02-10,Atlantis Allure all gay cruise ,True,20181208102934
+Fort Lauderdale,2019-02-10,2019-02-17,RSVP Caribbean Cruise,True,20180620225535
+ Fort Lauderdale,2019-02-10,2019-02-17,RSVP Caribbean Cruise ,True,20181208102934
+ Fort Lauderdale,2019-02-24,2019-02-24,Pride Fort Lauderdale ,True,20181208102934
+ Miami,2019-02-27,2019-03-05,Winter Party Miami ,True,20181208102934
+ New Orleans,2019-02-28,2019-03-05,Gay Mardi Gras ,True,20181208102934
+ Fort Lauderdale,2019-03-17,2019-03-24,Atlantis Celebrity Edge gay cruise ,True,20181208102934
+ Miami,2019-04-01,2019-04-07,Miami Beach gay pride,True,20190324102639
+ Phoenix,2019-04-06,2019-04-07,Phoenix gay pride,True,20190324102639
+ Cleveland,2019-04-25,2019-04-28,Claw Leather Awareness,True,20190424100409
+ Palm Springs,2019-04-26,2019-04-29,White Party Palm Springs,True,20190424100409
+ Palm Springs,2019-05-03,2019-05-05,Blatino Oasis,True,20190424100409
+ Dallas,2019-05-09,2019-05-13,Purple Party,True,20190424100409
+ Los Angeles,2019-05-18,2019-05-19,Long Beach Pride,True,20190911024932
+ Chicago,2019-05-23,2019-05-27,International Mr Leather,True,20190911024932
+ Miami,2019-05-23,2019-05-27,Sizzle,True,20190911024932
+ Washington D.C,2019-05-24,2019-05-27,DC Black Pride,True,20190911024932
+ Orlando,2019-05-31,2019-06-03,One Magical Weekend,True,20190911024932
+ Boston,2019-05-31,2019-06-09,Boston Pride,True,20190911024932
+ New York,2019-06-01,2019-06-30,NYC Gay Pride / Worldpride,True,20190911024932
+ Cleveland,2019-06-01,2019-06-01,Cleveland Pride,True,20190911024932
+ Dallas,2019-06-01,2019-06-02,Dallas Pride Weekend,True,20190911024932
+ Key West,2019-06-05,2019-06-09,Key West PrideFest,True,20190911024932
+ Washington D.C,2019-06-06,2019-06-09,Capital pride,True,20190911024932
+ New Orleans,2019-06-07,2019-06-09,Gay Pride New Orleans,True,20190911024932
+ Los Angeles,2019-06-08,2019-06-09,Los Angeles Pride,True,20190911024932
+ Detroit,2019-06-08,2019-06-09,Motor City Pride,True,20190911024932
+ Philadelphia,2019-06-09,2019-06-09,Philly Gay Pride,True,20190911024932
+ Portland,2019-06-15,2019-06-16,Portland Pride,True,20190911024932
+ Denver,2019-06-15,2019-06-16,Gay Pride Fest Denver,True,20190911024932
+ Rhode Island,2019-06-15,2019-06-15,Rhode Island Pride,True,20190911024932
+ Chicago,2019-06-22,2019-06-23,Chicago Pride,True,20190911024932
+ Minneapolis,2019-06-22,2019-06-23,Twin Cities Pride,True,20190911024932
+ Houston,2019-06-22,2019-06-22,Gay Pride Houston,True,20190911024932
+ New York,2019-06-23,2019-06-23,Folsom Street East,True,20190911024932
+ Provincetown,2019-06-28,2019-07-05,Independence Weekend,True,20190911024932
+ San Francisco,2019-06-29,2019-06-30,San Francisco Pride,True,20190911024932
+ New York,2019-06-29,2019-06-29,Harlem Pride,True,20190911024932
+ Chicago,2019-06-30,2019-06-30,Chicago Pride,True,20190911024932
+ Seattle,2019-06-30,2019-06-30,Seattle Pride,True,20190911024932
+ San Diego,2019-07-12,2019-07-14,San Diego Pride,True,20190911024932
+ Provincetown,2019-07-13,2019-07-21,Bear Week,True,20190911024932
+ Seattle,2019-07-14,2019-07-21,RSVP gay Alaska cruise,True,20190911024932
+ San Francisco,2019-07-28,2019-07-28,Up Your Alley,True,20190911024932
+ Chicago,2019-08-10,2019-08-11,Northalsted Market Days,True,20190911024932
+ New York,2019-08-11,2019-08-18,Vacaya PTown gay cruise,True,20190911024932
+ Orlando,2019-08-13,2019-08-19,Disney Gay Days,True,20190911024932
+ Provincetown,2019-08-15,2019-08-24,Carnival,True,20190911024932
+ Black Rock Desert,2019-08-25,2019-09-02,Burning man,True,20190911024932
+ New Orleans,2019-08-29,2019-09-02,Southern Decadence,True,20190911024932
+ Austin,2019-08-30,2019-09-02,Splash Days,True,20190911024932
+ San Francisco,2019-09-08,2019-09-08,Oakland Gay Pride,True,20190911024932
+ San Francisco,2019-09-29,2019-09-29,Folsom Street Fair,True,20190911024932
+ Los Angeles,2019-10-04,2019-10-06,Gay Days Anaheim,True,20190911024932
+ Atlanta,2019-10-11,2019-10-13,Atlanta Pride,True,20190911024932
+ Orlando,2019-10-12,2019-10-12,Orlando Pride,True,20190911024932
+ Oceanside,2019-10-12,2019-10-12,Pride @ the beach,True,20190911024932
+ Hawaii,2019-10-19,2019-10-19,Honolulu gay pride,True,20190911024932
+ New Orleans,2019-10-25,2019-10-27,Halloween,True,20190911024932
+ Palm Springs,2019-11-01,2019-11-03,Greater Palm Springs Pride,True,20190911024932
+ Fort Lauderdale,2019-11-30,2019-12-08,Pig Week,True,20190911024932
+ Aspen,2020-01-12,2020-01-19,Gay and Lesbian Ski Week,True,20190911024932
+ Washington D.C,2020-01-17,2020-01-19,Mid Atlantic Leather Weekend,True,20190911024932
+ Miami,2020-01-19,2020-01-26,Atlantis Oasis all gay cruise,True,20190911024932
+New Orleans,2020-02-20,2020-02-25,Gay Mardi Gras,True,20200225054213
+Miami,2020-03-04,2020-03-10,Winter Party Miami,True,20200225054213
+Mammoth Lakes,2020-03-18,2020-03-22,Elevation Mammoth gay ski week,True,20200225054213
+Miami,2020-03-30,2020-04-05,Miami Beach gay pride,True,20200225054213
+Phoenix,2020-04-04,2020-04-05,Phoenix gay pride,True,20200225054213
+Washington D.C,2020-04-16,2020-04-20,Cherry,True,20200225054213
+Ft Lauderdale,2020-04-21,2020-04-26,Pride of the Americas,True,20200225054213
+Cleveland,2020-04-23,2020-04-26,Claw Leather Awareness,True,20200316004457
+Palm Springs,2020-04-24,2020-04-27,White Party Palm Springs,True,20200225054213
+Palm Springs,2020-05-01,2020-05-03,Blatino Oasis,True,20200316004457
+Dallas,2020-05-07,2020-05-11,Purple Party,True,20200316004457
+Los Angeles,2020-05-16,2020-05-17,Long Beach Pride,True,20200316004457
+Washington D.C,2020-05-16,2020-05-17,Capital pride,True,20200316004457
+Chicago,2020-05-21,2020-05-25,International Mr Leather,True,20200316004457
+Miami,2020-05-21,2020-05-25,Sizzle,True,20200316004457
+Washington D.C,2020-05-22,2020-05-25,DC Black Pride,True,20200316004457
+Miami,2020-05-31,2020-06-07,Atlantis Virgin Voyages gay cruise,True,20200225054213
+Orlando,2020-06-02,2020-06-08,Disney Gay Days,True,20200316004457
+Key West,2020-06-03,2020-06-07,Key West PrideFest,True,20200316004457
+Orlando,2020-06-04,2020-06-08,One Magical Weekend,True,20200316004457
+Boston,2020-06-05,2020-06-16,Boston Pride,True,20200316004457
+Dallas,2020-06-06,2020-06-07,Dallas Pride Weekend,True,20200316004457
+Cleveland,2020-06-06,2020-06-06,Cleveland Pride,True,20200316004457
+Detroit,2020-06-06,2020-06-07,Motor City Pride,True,20200316004457
+New Orleans,2020-06-12,2020-06-14,Gay Pride New Orleans,True,20200316004457
+Los Angeles,2020-06-12,2020-06-14,Los Angeles Pride,True,20200316004457
+Portland,2020-06-13,2020-06-14,Portland Pride,True,20200316004457
+Philadelphia,2020-06-14,2020-06-14,Philly Gay Pride,True,20200511105542
+New York,2020-06-19,2020-06-21,Folsom Street East,True,20200316004457
+Denver,2020-06-20,2020-06-21,Gay Pride Fest Denver,True,20200316004457
+Rhode Island,2020-06-20,2020-06-20,Rhode Island Pride,True,20200316004457
+New York,2020-06-26,2020-06-28,NYC Gay Pride,True,20200316004457
+Chicago,2020-06-26,2020-06-28,Chicago Pride,True,20200316004457
+Provincetown,2020-06-27,2020-07-05,Independence Weekend,True,20200316004457
+Minneapolis,2020-06-27,2020-06-28,Twin Cities Pride,True,20200316004457
+San Francisco,2020-06-27,2020-06-28,San Francisco Pride,True,20200316004457
+Houston,2020-06-27,2020-06-27,Gay Pride Houston,True,20200316004457
+Provincetown,2020-07-11,2020-07-19,Bear Week,True,20200316004457
+San Diego,2020-07-18,2020-07-19,San Diego Pride,True,20200316004457
+Dallas,2020-07-25,2020-07-26,Dallas Pride Weekend,True,20200511105542
+San Francisco,2020-07-26,2020-07-26,Up Your Alley,True,20200316004457
+New Orleans,2020-08-01,2020-08-02,Gay Pride New Orleans,True,20200511105542
+Key West,2020-08-12,2020-08-16,Tropical Heat,True,20200511105542
+Provincetown,2020-08-15,2020-08-22,Carnival,True,20200511105542
+Black Rock Desert,2020-08-30,2020-08-31,Burning man,True,20200316004457
+New Orleans,2020-09-03,2020-09-07,Southern Decadence,True,20200511105542
+Dallas,2020-09-03,2020-09-07,Purple Party,True,20200511105542
+Cleveland,2020-09-12,2020-09-12,Cleveland Pride,True,20200825165614
+San Francisco,2020-09-13,2020-09-13,Oakland Gay Pride,True,20200511105542
+San Francisco,2020-09-27,2020-09-27,Folsom Street Fair,True,20200316004457
+Washington D.C,2020-10-01,2020-10-05,Cherry,True,20200825165614
+Los Angeles,2020-10-02,2020-10-04,Gay Days Anaheim,True,20200511105542
+Palm Springs,2020-10-02,2020-10-04,Blatino Oasis,True,20200511105542
+Orlando,2020-10-10,2020-10-10,Orlando Pride,True,20200825165614
+Palm Springs,2020-10-30,2020-11-02,White Party Palm Springs,True,20200825165614
+Ft Lauderdale,2020-11-27,2020-12-06,Pig Week,True,20200825165614
+Miami,2021-01-17,2021-01-24,Atlantis Allure all gay cruise,True,20201020204014
+Washington D.C,2021-01-22,2021-01-25,Mid Atlantic Leather Weekend,True,20201020204014
+Mammoth Lakes,2021-03-17,2021-03-21,Elevation Mammoth gay ski week,True,20210223181023
+Ft Lauderdale,2021-03-21,2021-03-28,Atlantis gay cruise on Celebrity Apex,True,20201020204014
+Miami,2021-04-11,2021-04-16,Atlantis Virgin Voyages gay cruise,True,20201111235103
+Palm Springs,2021-04-23,2021-04-26,White Party Palm Springs,True,20210422021109
+Orlando,2021-06-03,2021-06-07,One Magical Weekend,True,20210422021109
+Miami,2021-06-06,2021-06-11,Atlantis Virgin Voyages gay cruise,True,20210422021109
+New York,2021-06-18,2021-06-20,Folsom Street East,True,20210422021109
+Seattle,2021-06-26,2021-06-27,Seattle Pride,True,20210422021109
+Los Angeles,2021-09-17,2021-09-19,Gay Days Anaheim,True,20210918154342
+Las Vegas,2021-10-08,2021-10-09,Las Vegas Pride,True,20210918154342
+Los Angeles,2021-10-31,2021-11-07,Atlantis LA Mexico gay cruise,True,20210918154342
+Ft Lauderdale,2021-11-20,2021-11-21,Pride Fort Lauderdale,True,20210918154342
+Miami,2022-01-15,2022-01-23,Atlantis Oasis all gay cruise,True,20210918154342
+Aspen,2022-01-16,2022-01-23,Gay and Lesbian Ski Week,True,20220118142544
+Miami,2022-01-28,2022-02-07,Atlantis Americas gay cruise,True,20220201084449
+Palm Springs,2022-02-24,2022-02-28,International Bear Convergence IBC,True,20220201084449
+New Orleans,2022-03-01,2022-03-01,Gay Mardi Gras,True,20220201084449
+Miami,2022-03-02,2022-03-08,Winter Party Miami,True,20220303172758
+Mammoth Lakes,2022-03-16,2022-03-20,Elevation Mammoth gay ski week,True,20220303172758
+Cleveland,2022-04-27,2022-05-01,Claw Leather Awareness,True,20220423111305
+Palm Springs,2022-04-29,2022-05-01,White Party Palm Springs,True,20220423111305
+Dallas,2022-05-05,2022-05-09,Purple Party,True,20220423111305
+Miami,2022-05-26,2022-05-30,Sizzle,True,20220519193046
+Chicago,2022-05-26,2022-05-30,International Mr Leather,True,20220519193046
+Washington D.C,2022-05-27,2022-05-30,DC Black Pride,True,20220519193046
+Orlando,2022-05-31,2022-06-06,Disney Gay Days,True,20220519193046
+Key West,2022-06-01,2022-06-05,Key West Pride,True,20220519193046
+Orlando,2022-06-02,2022-06-06,One Magical Weekend,True,20220519193046
+Cleveland,2022-06-04,2022-06-04,Cleveland Pride,True,20220519193046
+Dallas,2022-06-04,2022-06-05,Dallas Pride Weekend,True,20220519193046
+Los Angeles,2022-06-10,2022-06-12,Los Angeles Pride,True,20220519193046
+Washington D.C,2022-06-10,2022-06-12,Capital pride,True,20220519193046
+Oceanside,2022-06-11,2022-06-11,Pride by the beach,True,20220519193046
+Detroit,2022-06-11,2022-06-12,Motor City Pride,True,20220519193046
+Rhode Island,2022-06-18,2022-06-18,Rhode Island Pride,True,20220519193046
+Portland,2022-06-18,2022-06-19,Portland Pride,True,20220519193046
+Seattle,2022-06-25,2022-06-26,Seattle Pride,True,20220626025938
+Minneapolis,2022-06-25,2022-06-26,Twin Cities Pride,True,20220626025938
+San Francisco,2022-06-25,2022-06-26,San Francisco Pride,True,20220626025938
+Denver,2022-06-25,2022-06-26,Gay Pride Fest Denver,True,20220626025938
+New York,2022-06-26,2022-06-26,NYC Gay Pride,True,20220626025938
+Chicago,2022-06-26,2022-06-26,Chicago Pride,True,20220626025938
+Los Angeles,2022-07-08,2022-07-10,Long Beach Pride,True,20220626025938
+San Diego,2022-07-09,2022-07-17,San Diego Pride,True,20220714214246
+San Francisco,2022-07-31,2022-07-31,Up Your Alley,True,20220714214246
+Chicago,2022-08-06,2022-08-07,Northalsted Market Days,True,20220714214246
+Austin,2022-08-13,2022-08-13,Austin Gay Pride,True,20220810090812
+New Orleans,2022-09-01,2022-09-05,Southern Decadence,True,20220901034345
+Los Angeles,2022-09-16,2022-09-18,Gay Days Anaheim,True,20220901034345
+San Francisco,2022-09-25,2022-09-25,Folsom Street Fair,True,20220901034345
+Las Vegas,2022-10-07,2022-10-08,Las Vegas Pride,True,20220901034345
+Hawaii,2022-10-15,2022-10-15,Honolulu gay pride,True,20220901034345
+Orlando,2022-10-15,2022-10-15,Orlando Pride,True,20220901034345
+Los Angeles,2022-10-21,2022-10-28,Atlantis LA Mexico gay cruise,True,20220901034345
+Palm Springs,2022-11-04,2022-11-06,Greater Palm Springs Pride,True,20220901034345
+Phoenix,2022-11-06,2022-11-07,Phoenix LGBT+ gay pride festival,True,20220901034345
+Ft Lauderdale,2022-11-25,2022-12-04,Pig Week,True,20220901034345
+Washington D.C,2023-01-13,2023-01-16,Mid Atlantic Leather Weekend,True,20230110021932
+Aspen,2023-01-15,2023-01-22,Gay and Lesbian Ski Week,True,20230110021932
+Orlando,2023-01-22,2023-01-29,Atlantis gay cruise on NCL Prima,True,20230110021932
+Ft Lauderdale,2023-02-04,2023-02-12,Atlantis gay cruise on Harmony,True,20230110021932
+Miami,2023-02-10,2023-02-17,RSVP Caribbean gay cruise,True,20230110021932
+Ft Lauderdale,2023-02-10,2023-02-12,Pride Fort Lauderdale,True,20230110021932
+Orlando,2023-03-05,2023-03-12,Atlantis gay cruise on NCL Prima,True,20220519193046
+Miami,2023-03-08,2023-03-14,Winter Party Miami,True,20230110021932
+Mammoth Lakes,2023-03-15,2023-03-19,Elevation Mammoth gay ski week,True,20230110021932
+Cleveland,2023-04-06,2023-04-09,Claw Leather Awareness,True,20230110021932
+Miami,2023-04-15,2023-04-16,Miami Beach gay pride,True,20230110021932
+Palm Springs,2023-05-12,2023-05-14,White Party Palm Springs,True,20230110021932
+Dallas,2023-06-03,2023-06-04,Dallas Pride Weekend,True,20230110021932
+Oceanside,2023-06-03,2023-06-03,Pride by the beach,True,20230110021932
+Key West,2023-06-07,2023-06-11,Key West Pride,True,20230110021932
+Denver,2023-06-24,2023-06-25,Gay Pride Fest Denver,True,20230110021932
+Seattle,2023-06-24,2023-06-25,Seattle Pride,True,20230110021932
+San Francisco,2023-06-24,2023-06-25,San Francisco Pride,True,20230110021932
+Los Angeles,2023-09-22,2023-09-24,Gay Days Anaheim,True,20230110021932

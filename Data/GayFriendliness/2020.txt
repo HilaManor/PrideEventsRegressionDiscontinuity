@@ -1,0 +1,52 @@
+state	score
+California	11
+Nevada	10
+New York	10
+Colorado	9
+Connecticut	9
+Illinois	9
+Massachusetts	9
+Oregon	9
+Washington DC	9
+New Jersey	8
+Washington	8
+Hawaii	7
+New Mexico	7
+Utah	7
+Vermont	7
+Maryland	6
+New Hampshire	6
+Rhode Island	6
+Delaware	5
+Maine	5
+Minnesota	4
+Florida	2
+Indiana	1
+Iowa	1
+Pennsylvania	1
+Arizona	0
+Georgia	0
+Louisiana	0
+Virginia	0
+Alaska	-1
+Arkansas	-1
+Idaho	-1
+Kansas	-1
+Michigan	-1
+Montana	-1
+Wisconsin	-1
+Kentucky	-2
+Mississippi	-2
+Missouri	-2
+Nebraska	-2
+South Dakota	-2
+Tennessee	-2
+Texas	-2
+West Virginia	-2
+Alabama	-3
+North Carolina	-3
+North Dakota	-3
+Oklahoma	-3
+South Carolina	-3
+Wyoming	-3
+Ohio	-4
