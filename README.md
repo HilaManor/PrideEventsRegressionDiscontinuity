@@ -94,3 +94,4 @@ Further research could help determine future policy about increased security and
 6. Gregory Smith, Alan Cooperman, Jessica Martinez, Elizabeth Sciupac, Conrad Hackett, Besheer Mohamed, Becka Alper, Claire Gecewicz, and Juan Carlos Esparza Ochoa. America’s changing religious landscape. Washington, DC: Pew Research Center, 2015.
 7. Spartacus. [Gay travel index](https://spartacus.gayguide.travel/blog/spartacus-gay-travel-index/). 2012-2017,2020,2021.
 8. Night Tours. [Night tours gay nightlife and travel guide](https://www.nighttours.com/gaypride/), 2007-2022.
+9. simplemaps. [The United States Cities Database](https://simplemaps.com/data/us-cities), 2023
